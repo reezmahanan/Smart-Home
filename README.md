@@ -60,16 +60,11 @@ This project is a Smart Home Automation System developed using the ATmega32 Micr
 
 ![Proteus Circuit](https://github.com/reezmahanan/Smart-Home/blob/main/Screenshot%204.png)
 
-### Demo
-
-![Demo ](https://github.com/reezmahanan/Smart-Home/blob/main/Demo.mp4)
-
-
 
 
 ## Project Team
 
-* M. R. Hanan (Team Leader)
+* M. R. Hanan- Me  (Team Leader)
 * M. D. B. Amarakoon
 * D. G. D. Dilshan
 * S. M. R. Kaveeshwara
